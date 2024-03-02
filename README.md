@@ -20,3 +20,5 @@ libraries used:
 numpy 
 
 matplotlib
+
+application is till not accurate 
